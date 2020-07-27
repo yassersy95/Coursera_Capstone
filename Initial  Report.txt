@@ -1,0 +1,3 @@
+In Manhatten Isnland in New York City, if someone is looking to open a restaurant, this routine will give the most suitable neighborhoods to open the resturant in.
+the technique will be by analysing the neighborhoods vendors and divide them into cluster then after examining the cluster we can choose which cluster is most suitable for the resturant opening
+or another workarounnd i worked in was to check the top 3 vendors for each neighborhoods and if they didnt contain any resturaunt or diner then they will be recommended.
